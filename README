@@ -1,4 +1,4 @@
-# Pong
+# Flappy Bird
 cs50 randomised flappy bird
 # What Does It Do?
 This recreation of Flappy Bird randomly generates pipes for the player to fly through, has a pause feature, and awards a bronze, silver, or gold medal depending upon the player's score. The images for the medals could be cleaned up through changing their background to transparent, though this was not part of the project brief. 
